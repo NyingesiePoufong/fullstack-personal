@@ -3,13 +3,13 @@
 
 ### Goal: 
 
--- In progress
+-- This app is geared to have memebers of the community sign-up and volunteer while the location and charity causes remain a mystery. If you like adventure and helping people this is the site for you!
 
 
 
 ***IN-PROGRESS***
 
-![alt-text](https://github.com/NyingesiePoufong/Final-Project-Demo/blob/master/final%20project%20image.png)
+![alt-text](https://github.com/NyingesiePoufong/fullstack-personal/blob/master/fullstack%20personal.png)
 
 ### How it's Made:
 
